@@ -85,6 +85,7 @@ Nvidia RTX 2660</p>
 <p>I’ve broken down each section into three sections. Getting into the professional world of streaming is a bit outside of the scope of this guide, so I will purely cover prosumer / consumer level items. Broken down into <strong>[best]</strong>, <strong>[recommended]</strong> and <strong>[minimal]</strong>.</p>
 <p>I’ll also comment on what situation they might be best for.</p>
 <h2 id="microphones">Microphones</h2>
+<p>I have attempted to compile a list of different ways to get voice into your stream. The best way with most control would be to use a USB sound card that connects up to your Mac or Windows PC and allows you to control the volumes directly from the mixer. If you have no experience with mixers, we would recommend going with something simple such as the minimal or recommended options.</p>
 <p><strong>Best:</strong></p>
 <ol>
 <li>
@@ -131,16 +132,52 @@ Nvidia RTX 2660</p>
 </li>
 </ol>
 <h2 id="webcams">Webcams</h2>
+<p>This section aims to provide a good list of different setups you can use for a webcam. Absolutely the best quality will be a DSLR Camera. Sadly, not all cameras are made equal and there are issues with using them for this purpose. For that reason I have listed my favourite here. I will include a more detailed list of other compatible cameras in a later section.</p>
 <p><strong>Best:</strong></p>
+<ol>
+<li>Part 1 DSLR Camera (Canon D90)<br>
+<a href="https://amzn.to/3dospuI">https://amzn.to/3dospuI</a></li>
+<li>Part 2 Capture Device Listed Below</li>
+</ol>
 <p><strong>Recommended:</strong></p>
+<ol>
+<li>Logitech C920<br>
+<a href="https://amzn.to/2J67MFw">https://amzn.to/2J67MFw</a></li>
+</ol>
 <p><strong>Minimal</strong></p>
+<ol>
+<li>Part 1 iPhone Camera</li>
+<li>Part 2 NDI - HX App for iPhone:<br>
+<a href="https://apple.co/3aeoPkx">https://apple.co/3aeoPkx</a></li>
+</ol>
 <h2 id="capture-devices">Capture Devices</h2>
 <p><strong>Best:</strong></p>
+<ol>
+<li>AJA U-TAP HDMI<br>
+<a href="https://bit.ly/2Jbz3GM">https://bit.ly/2Jbz3GM</a><br>
+Note: Doesn’t need drivers for Mac or Windows and works out of the box. More expensive than Elgato though, but definitely more on the professional side. Definitely professional level.</li>
+</ol>
 <p><strong>Recommended:</strong></p>
+<ol>
+<li>Magewell USB 3.0 HDMI Full HD<br>
+<a href="https://amzn.to/3doiXr8">https://amzn.to/3doiXr8</a><br>
+Note: Doesn’t need drivers for Mac or Windows and works out of the box. More expensive than Elgato though, but definitely more on the professional side. More prosumer level.</li>
+</ol>
 <p><strong>Minimal</strong></p>
+<ol>
+<li>Elgato Camlink<br>
+<a href="https://amzn.to/39cs22T">https://amzn.to/39cs22T</a><br>
+Note: I would also recommend the Elgato S60+ here: <a href="https://amzn.to/2JaCSvW">https://amzn.to/2JaCSvW</a> but it doesn’t work with Mac OS out of the box. They provide a piece of software that links the software with the hardware but it’s a little more work. If possible get the Camlink but if they’re unavailable I’ll also explain how to setup the Elgato S60 / S60+ working on a Mac.</li>
+</ol>
 <h2 id="soundcards">Soundcards</h2>
+<p>You don’t necessarily need a soundcard as all Mac’s and PC’s have soundcards inbuilt, but especially for Macintosh devices, you will find the way they handle audio input to be frustrating. For that reason we would recommend an external soundcard.</p>
 <p><strong>Best:</strong></p>
-<p><strong>Recommended:</strong></p>
+<ol>
+<li>Yamaha MG10 Stereo Sound Card &amp; Mixer<br>
+<a href="https://amzn.to/2J870b5">https://amzn.to/2J870b5</a><br>
+Note: This is great because it has a mixer and a sound card inbuilt. This means<br>
+<strong>Recommended:</strong></li>
+</ol>
 <p><strong>Minimal</strong></p>
 <h2 id="tripods">Tripods</h2>
 <p><strong>Best:</strong></p>
