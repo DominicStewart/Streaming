@@ -101,7 +101,7 @@ Nvidia RTX 2660</p>
 </li>
 <li>
 <p>Fitness Instructor Part 2 (Apple hardware only): Headphone Splitter<br>
-<a href="https://amzn.to/3bpsInb">enter link description here</a></p>
+<a href="https://amzn.to/3bpsInb">https://amzn.to/3bpsInb</a></p>
 </li>
 </ol>
 <p><strong>Recommended:</strong></p>
