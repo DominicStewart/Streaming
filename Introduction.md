@@ -33,14 +33,22 @@
 </ol>
 <h3 id="macbook-pro">Macbook Pro</h3>
 <p>For the smaller Macbook Pro (13 inch), although it is possible to stream on earlier models, you might have problems with large amounts of delay, or errors in the stream. For a smoother show I would recommend the following hardware:**</p>
-<p><strong>1.  13 Inch Macbook Pro: (2019-onwards)</strong><br>
+<ol>
+<li>
+<p><strong>13 Inch Macbook Pro: (2019-onwards)</strong><br>
 <strong>Note:</strong> This is the only one with a high-speed CPU, all others are too low-spec for me to recommend, even in 2020).<br>
 <a href="https://apple.co/2QDf2wK">https://apple.co/2QDf2wK</a></p>
-<p><strong>2. 15 Inch Macbook Pro: (2016-2019)</strong><br>
+</li>
+<li>
+<p><strong>15 Inch Macbook Pro: (2016-2019)</strong><br>
 Note:  Any MBP with the USB-C ports should work fine!<br>
 <a href="https://apple.co/2xnhHUo">https://apple.co/2xnhHUo</a></p>
-<p><strong>3.  16 inch Macbook Pro: (2019-Current)</strong><br>
+</li>
+<li>
+<p><strong>16 inch Macbook Pro: (2019-Current)</strong><br>
 <a href="https://apple.co/33ECRJW">https://apple.co/33ECRJW</a></p>
+</li>
+</ol>
 <h2 id="windows">Windows</h2>
 <h3 id="specifications"><strong>Specifications:</strong></h3>
 <p>As Windows based PC’s have such a range of different hardware inside, I’ve decided to list a minimum and recommended general specification in addition to some example PC’s or Laptops that I feel will do the job fine.</p>
@@ -95,18 +103,14 @@ Nvidia RTX 2660</p>
 <ol>
 <li>
 <p>Desk Streaming Part 1: Yamaha MG10 Stereo Sound Card &amp; Mixer<br>
-<a href="https://amzn.to/2J870b5">https://amzn.to/2J870b5</a></p>
-</li>
-<li>
-<p>Desk Streaming Part 2: Rode Procaster<br>
+<a href="https://amzn.to/2J870b5">https://amzn.to/2J870b5</a><br>
+Desk Streaming Part 2: Rode Procaster<br>
 <a href="https://amzn.to/39f2GS7">https://amzn.to/39f2GS7</a></p>
 </li>
 <li>
 <p>Fitness Instructor Part 1:Rode Microphones Wireless Go<br>
-<a href="https://amzn.to/2UfCmDc">https://amzn.to/2UfCmDc</a></p>
-</li>
-<li>
-<p>Fitness Instructor Part 2 (Apple hardware only): Headphone Splitter<br>
+<a href="https://amzn.to/2UfCmDc">https://amzn.to/2UfCmDc</a><br>
+Fitness Instructor Part 2 (Apple hardware only): Headphone Splitter<br>
 <a href="https://amzn.to/3bpsInb">https://amzn.to/3bpsInb</a></p>
 </li>
 </ol>
@@ -118,10 +122,8 @@ Nvidia RTX 2660</p>
 </li>
 <li>
 <p>Part 1 Fitness Instructor: Rode Smartlav+<br>
-<a href="https://amzn.to/3dodrVs">https://amzn.to/3dodrVs</a></p>
-</li>
-<li>
-<p>Part 2 Fitness Instructor: TRRS Extension Cable:<br>
+<a href="https://amzn.to/3dodrVs">https://amzn.to/3dodrVs</a><br>
+Part 2 Fitness Instructor: TRRS Extension Cable:<br>
 <a href="https://amzn.to/3do7sQi">https://amzn.to/3do7sQi</a></p>
 </li>
 </ol>
@@ -141,8 +143,8 @@ Nvidia RTX 2660</p>
 <p><strong>Best:</strong></p>
 <ol>
 <li>Part 1 DSLR Camera (Canon D90)<br>
-<a href="https://amzn.to/3dospuI">https://amzn.to/3dospuI</a></li>
-<li>Part 2 Capture Device Listed Below</li>
+<a href="https://amzn.to/3dospuI">https://amzn.to/3dospuI</a><br>
+Part 2 Capture Device Listed Below</li>
 </ol>
 <p><strong>Recommended:</strong></p>
 <ol>
@@ -151,8 +153,8 @@ Nvidia RTX 2660</p>
 </ol>
 <p><strong>Minimal</strong></p>
 <ol>
-<li>Part 1 iPhone Camera</li>
-<li>Part 2 NDI - HX App for iPhone:<br>
+<li>Part 1 iPhone Camera<br>
+Part 2 NDI - HX App for iPhone:<br>
 <a href="https://apple.co/3aeoPkx">https://apple.co/3aeoPkx</a></li>
 </ol>
 <h2 id="capture-devices">Capture Devices</h2>
@@ -160,19 +162,19 @@ Nvidia RTX 2660</p>
 <ol>
 <li>AJA U-TAP HDMI<br>
 <a href="https://bit.ly/2Jbz3GM">https://bit.ly/2Jbz3GM</a><br>
-Note: Doesn’t need drivers for Mac or Windows and works out of the box. More expensive than Elgato though, but definitely more on the professional side. Definitely professional level.</li>
+<strong>Note:</strong> Doesn’t need drivers for Mac or Windows and works out of the box. More expensive than Elgato though, but definitely more on the professional side. Definitely professional level.</li>
 </ol>
 <p><strong>Recommended:</strong></p>
 <ol>
 <li>Magewell USB 3.0 HDMI Full HD<br>
 <a href="https://amzn.to/3doiXr8">https://amzn.to/3doiXr8</a><br>
-Note: Doesn’t need drivers for Mac or Windows and works out of the box. More expensive than Elgato though, but definitely more on the professional side. More prosumer level.</li>
+<strong>Note:</strong> Doesn’t need drivers for Mac or Windows and works out of the box. More expensive than Elgato though, but definitely more on the professional side. More prosumer level.</li>
 </ol>
 <p><strong>Minimal</strong></p>
 <ol>
 <li>Elgato Camlink<br>
 <a href="https://amzn.to/39cs22T">https://amzn.to/39cs22T</a><br>
-Note: I would also recommend the Elgato S60+ here: <a href="https://amzn.to/2JaCSvW">https://amzn.to/2JaCSvW</a> but it doesn’t work with Mac OS out of the box. They provide a piece of software that links the software with the hardware but it’s a little more work. If possible get the Camlink but if they’re unavailable I’ll also explain how to setup the Elgato S60 / S60+ working on a Mac.</li>
+<strong>Note:</strong> I would also recommend the Elgato S60+ here: <a href="https://amzn.to/2JaCSvW">https://amzn.to/2JaCSvW</a> but it doesn’t work with Mac OS out of the box. They provide a piece of software that links the software with the hardware but it’s a little more work. If possible get the Camlink but if they’re unavailable I’ll also explain how to setup the Elgato S60 / S60+ working on a Mac.</li>
 </ol>
 <h2 id="soundcards">Soundcards</h2>
 <p>You don’t necessarily need a soundcard as all Mac’s and PC’s have soundcards inbuilt, but especially for Macintosh devices, you will find the way they handle audio input to be frustrating. For that reason we would recommend an external soundcard.</p>
@@ -186,13 +188,13 @@ Note: I would also recommend the Elgato S60+ here: <a href="https://amzn.to/2JaC
 <ol>
 <li>Focusrite Scarlett 2i2 3rd Gen<br>
 <a href="https://amzn.to/3brs0Wx">https://amzn.to/3brs0Wx</a><br>
-Note: This device will allow you to plug in two inputs. For example, a microphone and a turntable and control the volume directly from the device. The benefit of going for one of these is they take XLR input which is commonly used in professional microphones, such as the <strong>“Rode Procaster”</strong> microphone mentioned above.</li>
+<strong>Note:</strong> This device will allow you to plug in two inputs. For example, a microphone and a turntable and control the volume directly from the device. The benefit of going for one of these is they take XLR input which is commonly used in professional microphones, such as the <strong>“Rode Procaster”</strong> microphone mentioned above.</li>
 </ol>
 <p><strong>Minimal</strong></p>
 <ol>
 <li>Plugable USB Audio Adaptor<br>
 <a href="https://amzn.to/2JdkLFC">https://amzn.to/2JdkLFC</a><br>
-Note: Useful for simple jobs and you want to bypass the Apple Macbook 3.5mm audio interface problems. Using this will simplify your streaming life, its plug &amp; play meaning you dont need any special drivers or software for your PC. It should just work when plugged in. Doesn’t include any fancy ports but if you have a standard consumer microphone you would like to use, this will make that work.</li>
+<strong>Note:</strong> Useful for simple jobs and you want to bypass the Apple Macbook 3.5mm audio interface problems. Using this will simplify your streaming life, its plug &amp; play meaning you dont need any special drivers or software for your PC. It should just work when plugged in. Doesn’t include any fancy ports but if you have a standard consumer microphone you would like to use, this will make that work.</li>
 </ol>
 <h2 id="tripods">Tripods</h2>
 <p><strong>Best:</strong></p>
