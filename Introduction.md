@@ -103,39 +103,39 @@ Nvidia RTX 2660</p>
 <ol>
 <li>
 <p>Desk Streaming Part 1: Yamaha MG10 Stereo Sound Card &amp; Mixer<br>
-<a href="https://amzn.to/2J870b5">https://amzn.to/2J870b5</a><br>
+<a href="https://amzn.to/2J870b5">Amazon UK Yamaha MG10</a><br>
 Desk Streaming Part 2: Rode Procaster<br>
-<a href="https://amzn.to/39f2GS7">https://amzn.to/39f2GS7</a></p>
+<a href="https://amzn.to/39f2GS7">Amazon UK Rode Procaster</a></p>
 </li>
 <li>
 <p>Fitness Instructor Part 1:Rode Microphones Wireless Go<br>
-<a href="https://amzn.to/2UfCmDc">https://amzn.to/2UfCmDc</a><br>
+<a href="https://amzn.to/2UfCmDc">Amazon UK Rode Wireless Go</a><br>
 Fitness Instructor Part 2 (Apple hardware only): Headphone Splitter<br>
-<a href="https://amzn.to/3bpsInb">https://amzn.to/3bpsInb</a></p>
+<a href="https://amzn.to/3bpsInb">Amazon UK Headphone Splitter</a></p>
 </li>
 </ol>
 <p><strong>Recommended:</strong></p>
 <ol>
 <li>
 <p>Desk Streaming: Blue Yeti X<br>
-<a href="https://amzn.to/3do8yM6">https://amzn.to/3do8yM6</a></p>
+<a href="https://amzn.to/3do8yM6">Amazon UK Blue Yeti X</a></p>
 </li>
 <li>
 <p>Part 1 Fitness Instructor: Rode Smartlav+<br>
-<a href="https://amzn.to/3dodrVs">https://amzn.to/3dodrVs</a><br>
+<a href="https://amzn.to/3dodrVs">Amazon UK Rode Smartlav+</a><br>
 Part 2 Fitness Instructor: TRRS Extension Cable:<br>
-<a href="https://amzn.to/3do7sQi">https://amzn.to/3do7sQi</a></p>
+<a href="https://amzn.to/3do7sQi">Amazon UK TRRS Extension Cable</a></p>
 </li>
 </ol>
 <p><strong>Minimal</strong></p>
 <ol>
 <li>
 <p>Desktop Streaming: Logitech G332<br>
-<a href="https://amzn.to/3bwrqH9">https://amzn.to/3bwrqH9</a></p>
+<a href="https://amzn.to/3bwrqH9">Amazon UK Logitech G332</a></p>
 </li>
 <li>
 <p>Fitness Instructor: Audio-Technica ATR-3350<br>
-<a href="https://amzn.to/2QDkZtA">https://amzn.to/2QDkZtA</a></p>
+<a href="https://amzn.to/2QDkZtA">Amazon UK Audio-Technica ATR-3350</a></p>
 </li>
 </ol>
 <h2 id="webcams">Webcams</h2>
@@ -143,57 +143,57 @@ Part 2 Fitness Instructor: TRRS Extension Cable:<br>
 <p><strong>Best:</strong></p>
 <ol>
 <li>Part 1 DSLR Camera (Canon D90)<br>
-<a href="https://amzn.to/3dospuI">https://amzn.to/3dospuI</a><br>
+<a href="https://amzn.to/3dospuI">Amazon UK Canon D90</a><br>
 Part 2 Capture Device Listed Below</li>
 </ol>
 <p><strong>Recommended:</strong></p>
 <ol>
 <li>Logitech C920<br>
-<a href="https://amzn.to/2J67MFw">https://amzn.to/2J67MFw</a></li>
+<a href="https://amzn.to/2J67MFw">Amazon UK Logitech C920</a></li>
 </ol>
 <p><strong>Minimal</strong></p>
 <ol>
 <li>Part 1 iPhone Camera<br>
 Part 2 NDI - HX App for iPhone:<br>
-<a href="https://apple.co/3aeoPkx">https://apple.co/3aeoPkx</a></li>
+<a href="https://apple.co/3aeoPkx">NDI - HX App</a></li>
 </ol>
 <h2 id="capture-devices">Capture Devices</h2>
 <p><strong>Best:</strong></p>
 <ol>
 <li>AJA U-TAP HDMI<br>
-<a href="https://bit.ly/2Jbz3GM">https://bit.ly/2Jbz3GM</a><br>
+<a href="https://bit.ly/2Jbz3GM">Pro-AV AJA U-TAP HDMI </a><br>
 <strong>Note:</strong> Doesn’t need drivers for Mac or Windows and works out of the box. More expensive than Elgato though, but definitely more on the professional side. Definitely professional level.</li>
 </ol>
 <p><strong>Recommended:</strong></p>
 <ol>
 <li>Magewell USB 3.0 HDMI Full HD<br>
-<a href="https://amzn.to/3doiXr8">https://amzn.to/3doiXr8</a><br>
+<a href="https://amzn.to/3doiXr8">Amazon UK Magewell HDMI Capture</a><br>
 <strong>Note:</strong> Doesn’t need drivers for Mac or Windows and works out of the box. More expensive than Elgato though, but definitely more on the professional side. More prosumer level.</li>
 </ol>
 <p><strong>Minimal</strong></p>
 <ol>
 <li>Elgato Camlink<br>
-<a href="https://amzn.to/39cs22T">https://amzn.to/39cs22T</a><br>
-<strong>Note:</strong> I would also recommend the Elgato S60+ here: <a href="https://amzn.to/2JaCSvW">https://amzn.to/2JaCSvW</a> but it doesn’t work with Mac OS out of the box. They provide a piece of software that links the software with the hardware but it’s a little more work. If possible get the Camlink but if they’re unavailable I’ll also explain how to setup the Elgato S60 / S60+ working on a Mac.</li>
+<a href="https://amzn.to/39cs22T">Amazon UK Elgato Camlink</a><br>
+<strong>Note:</strong> I would also recommend the <a href="https://amzn.to/2JaCSvW">Elgato S60+</a> but it doesn’t work with Mac OS out of the box. They provide a piece of software that links the software with the hardware but it’s a little more work. If possible get the Camlink but if they’re unavailable I’ll also explain how to setup the Elgato S60 / S60+ working on a Mac.</li>
 </ol>
 <h2 id="soundcards">Soundcards</h2>
-<p>You don’t necessarily need a soundcard as all Mac’s and PC’s have soundcards inbuilt, but especially for Macintosh devices, you will find the way they handle audio input to be frustrating. For that reason we would recommend an external soundcard.</p>
+<p>You don’t necessarily need a sound card as all Mac’s and PC’s have sound cards inbuilt, but especially for Macintosh devices, you will find the way they handle audio input to be frustrating. For that reason we would recommend an external sound card.</p>
 <p><strong>Best:</strong></p>
 <ol>
 <li>Yamaha MG10 Stereo Sound Card &amp; Mixer<br>
-<a href="https://amzn.to/2J870b5">https://amzn.to/2J870b5</a><br>
+<a href="https://amzn.to/2J870b5">Amazon UK Yamaha MG10</a><br>
 <strong>Note:</strong> This is great because it has a mixer and a sound card inbuilt. This means that if you plug it into a Mac you can bypass the need for weird adaptors to get microphones working, and you’ll have more inputs, and because it has a mixer too we can control more about the sound we bring into the PC from the device rather than using software to do it. This also features multiple XLR inputs for microphones, turntables and more.</li>
 </ol>
 <p><strong>Recommended:</strong></p>
 <ol>
 <li>Focusrite Scarlett 2i2 3rd Gen<br>
-<a href="https://amzn.to/3brs0Wx">https://amzn.to/3brs0Wx</a><br>
+<a href="https://amzn.to/3brs0Wx">Amazon UK Focusrite Scarlett 2i2</a><br>
 <strong>Note:</strong> This device will allow you to plug in two inputs. For example, a microphone and a turntable and control the volume directly from the device. The benefit of going for one of these is they take XLR input which is commonly used in professional microphones, such as the <strong>“Rode Procaster”</strong> microphone mentioned above.</li>
 </ol>
 <p><strong>Minimal</strong></p>
 <ol>
 <li>Plugable USB Audio Adaptor<br>
-<a href="https://amzn.to/2JdkLFC">https://amzn.to/2JdkLFC</a><br>
+<a href="https://amzn.to/2JdkLFC">Amazon UK Plugable USB Audio Adaptor</a><br>
 <strong>Note:</strong> Useful for simple jobs and you want to bypass the Apple Macbook 3.5mm audio interface problems. Using this will simplify your streaming life, its plug &amp; play meaning you dont need any special drivers or software for your PC. It should just work when plugged in. Doesn’t include any fancy ports but if you have a standard consumer microphone you would like to use, this will make that work.</li>
 </ol>
 <h2 id="tripods">Tripods</h2>
@@ -204,23 +204,50 @@ Part 2 NDI - HX App for iPhone:<br>
 <h2 id="streaming-software">Streaming Software</h2>
 <p>You’ll need to use this software to broadcast to the internet! I’ve listed several different options.</p>
 <p><strong>OBS Studio - Recommended</strong><br>
-Description:<br>
-Link: <a href="https://obsproject.com/">OBS Official Website</a><br>
-Cost: Free</p>
+<strong>Description:</strong> The main program your average streamer will use to broadcast to the world. It has a good feature-list that makes it perfect for most streaming situations.<br>
+Compatibility: Windows &amp; Mac OS<br>
+<strong>Link:</strong> <a href="https://obsproject.com/">OBS Official Website</a><br>
+<strong>Cost:</strong> Free</p>
 <p><strong>Streamlabs OBS</strong><br>
-Description:<br>
-Link: <a href="https://streamlabs.com/">Streamlabs Official Website</a><br>
-Cost: Free</p>
+<strong>Description:</strong> This was originally based on OBS Studio a long time ago, but since then has changed dramatically (although it’s kept the name). It has extra features that OBS Studio doesn’t have, but with that comes extra bugs and worse performance. Add to that the fact it’s Windows only, and I feel the easiest software to recommend would be OBS Studio.<br>
+<strong>Compatibility:</strong> Windows<br>
+<strong>Link:</strong> <a href="https://streamlabs.com/">Streamlabs Official Website</a><br>
+<strong>Cost:</strong> Free</p>
 <p><strong>Xsplit</strong><br>
-Description:<br>
-Link: <a href="https://www.xsplit.com/">Xsplit Official Website</a><br>
-Cost: £50 / year</p>
+<strong>Description:</strong> A paid client to stream online. It has a few extra features such as the ability to stream to Skype and other clients, and performance is better than OBS but not so much that the extra cost is worth it. Also only available on Windows.<br>
+<strong>Compatibility:</strong> Windows<br>
+<strong>Link:</strong> <a href="https://www.xsplit.com/">Xsplit Official Website</a><br>
+<strong>Cost:</strong> £50 / year</p>
 <p><strong>Wirecast</strong><br>
-Description:<br>
-Link:<a href="https://www.telestream.net/wirecast/">Wirecast Official Website</a><br>
-Cost: £550</p>
+<strong>Description:</strong> Wirecast is absolutely the best professional streaming software you can use that includes compatibility with Windows and Mac OS. It’s significantly easier to use than OBS as all the features are integrated and not separate like OBS (OBS is community run and open source).<br>
+<strong>Compatibility:</strong> Windows &amp; Mac OS<br>
+<strong>Link:</strong><a href="https://www.telestream.net/wirecast/">Wirecast Official Website</a><br>
+<strong>Cost:</strong> £550</p>
 <p><strong>vMix</strong><br>
-Description:<br>
-Link:<a href="https://www.vmix.com/">vMix Official Website</a><br>
-Cost: £300</p>
+Description: vMix is a good middle ground between Wirecast and a free piece of software like OBS, however the free versions of the software offer nowhere near the level of features as OBS, yet the paid versions offer more features and are easier to use. Considering that it’s only compatible for Windows, for the purposes of this guide I wouldn’t recommend them.<br>
+<strong>Compatibility:</strong> Windows<br>
+<strong>Link:</strong><a href="https://www.vmix.com/">vMix Official Website</a><br>
+<strong>Cost:</strong> (Free -  £1000)</p>
+<h2 id="additional-software">Additional Software</h2>
+<p>Here is a list of additional software that you might need depending on what you want to do.</p>
+<p><strong>NDI OBS Plugin</strong><br>
+Description: NDI is a piece of software that allows us to send video from certain devices to other devices. The most common use for streaming is an App on the iPhone that can send iPhone camera data to our PC. This will allow us to use the iPhone as a webcam!<br>
+<strong>Compatibility:</strong> Windows &amp; Mac OS<br>
+<strong>Link:</strong><a href="https://bit.ly/2JaMvuz">NDI OBS Plugin (Github Homepage)</a><br>
+<strong>Cost:</strong> Free</p>
+<p><strong>NDI Camera App</strong><br>
+Description: Using this app, you can send camera data from your phone to a PC or Macbook.<br>
+<strong>Compatibility:</strong> iPhone<br>
+<strong>Link:</strong> <a href="https://apple.co/2vKncfy">NDI Camera App</a><br>
+<strong>Cost:</strong> £19.99</p>
+<p><strong>Loopback</strong><br>
+Description: This app is specifically for Mac OS. If we use this we can send audio from any application on your device to any other application. For example, you can send Spotify audio or Skype audio to OBS.<br>
+<strong>Compatibility:</strong> Mac OS<br>
+<strong>Link:</strong> <a href="https://bit.ly/2UfUFrK">Loopback Website</a><br>
+<strong>Cost:</strong> $119</p>
+<p><strong>VoiceMeeter Banana</strong><br>
+Description: This app is specifically for Mac OS. If we use this we can send audio from any application on your device to any other application. For example, you can send Spotify audio or Skype audio to OBS.<br>
+<strong>Compatibility:</strong> Windows<br>
+<strong>Link:</strong> <a href="https://bit.ly/3agCPul">VoiceMeeter Banana Website</a><br>
+<strong>Cost:</strong> Free</p>
 
