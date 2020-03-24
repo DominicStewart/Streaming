@@ -204,12 +204,12 @@ Part 2 NDI - HX App for iPhone:<br>
 <a href="https://amzn.to/2JdkLFC">Amazon UK Plugable USB Audio Adaptor</a><br>
 <strong>Note:</strong> Useful for simple jobs and you want to bypass the Apple Macbook 3.5mm audio interface problems. Using this will simplify your streaming life, its plug &amp; play meaning you dont need any special drivers or software for your PC. It should just work when plugged in. Doesn’t include any fancy ports but if you have a standard consumer microphone you would like to use, this will make that work.</li>
 </ol>
-<h2 id="tripods">Tripods</h2>
+<h2 id="usb-hubs">USB Hubs</h2>
+<p>This section is mainly for Mac users as they tend to only have USB-C ports, and not many of them either. To plug in a lot of the hardware mentioned we need to have a standard USB 3 port, not one of the new style ports. To fix this issue, we can use a USB hub. They plug in via USB-C and have multiple ports (including USB 3, HDMI and Ethernet sometimes.)</p>
 <p><strong>Best:</strong></p>
 <p><strong>Recommended:</strong></p>
 <p><strong>Minimal</strong></p>
-<h2 id="usb-hubs">USB Hubs</h2>
-<p>This section is mainly for Mac users as they tend to only have USB-C ports, and not many of them either. To plug in a lot of the hardware mentioned we need to have a standard USB 3 port, not one of the new style ports. To fix this issue, we can use a USB hub. They plug in via USB-C and have multiple ports (including USB 3, HDMI and Ethernet sometimes.)</p>
+<h2 id="tripods">Tripods</h2>
 <p><strong>Best:</strong></p>
 <p><strong>Recommended:</strong></p>
 <p><strong>Minimal</strong></p>
