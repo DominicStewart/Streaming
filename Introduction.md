@@ -5,6 +5,14 @@
 
 <h1 id="introduction">INTRODUCTION</h1>
 <p>This guide will help you get set up and ready to stream. Depending on what you want to stream, the steps may change slightly but we aim to cover as much as possible while keeping it as simple as possible.</p>
+<p><strong>Contents:</strong></p>
+<ul>
+<li>Quick Guide</li>
+</ul>
+<ol>
+<li>PC Hardware<br>
+–</li>
+</ol>
 <h2 id="quick-guide">Quick Guide</h2>
 <p>You will need the following to get out there to the world:</p>
 <ol>
@@ -266,13 +274,11 @@ Description: vMix is a good middle ground between Wirecast and a free piece of s
 <strong>Link:</strong> <a href="https://bit.ly/3agCPul">VoiceMeeter Banana Website</a><br>
 <strong>Cost:</strong> Free</p>
 <h1 id="how-to-stream">4. How to Stream</h1>
-<p>Depending on your requirements and the hardware you use, there are several different ways to broadcast.</p>
 <p><strong>1. Simplest Stream Setup</strong><br>
 <strong>Description:</strong> We will learn how to stream using just your laptop or Macbook and no additional hardware. This will use your laptops inbuilt webcam and microphone<br>
 <strong>Required Hardware</strong> Windows Laptop / Macbook Air / Macbook / Macbook Pro<br>
 <strong>Required Software</strong> OBS<br>
 <strong>Cost:</strong> Free (No additional hardware)</p>
-<hr>
 <p><strong>Steps:</strong></p>
 <ol>
 <li>Download OBS from the website and proceed to install the OBS software as instructed.</li>
@@ -291,16 +297,21 @@ Description: vMix is a good middle ground between Wirecast and a free piece of s
 <li>Next we will add an audio input device. Under sources, press the plus sign and select ‘Audio Input Capture’.</li>
 <li>Inside the new window, if you select the ‘device’ drop-down box, you will be able to select your microphone. Depending on the laptop you’re using the name may change, but it should be easily identifiable as a microphone.</li>
 </ol>
+<hr>
 <p><strong>2. Simple Stream plus iPhone Camera</strong><br>
 <strong>Description:</strong> We will learn how to stream using just your laptop or Macbook and using your iPhone camera as a webcam. iPhones have the benefit of being portable and generally better quality than most webcams. The disadvantages are that they may run out of power (so remember to keep it charged) and in most cases you will want to run it over WiFi which can cause issues.<br>
 <strong>Required Hardware</strong> Windows Laptop / Macbook Air / Macbook / Macbook Pro<br>
-<strong>Required Software</strong> OBS<br>
-<strong>Cost:</strong> Free (No additional hardware)</p>
-<hr>
+<strong>Required Software</strong> OBS , OBS NDI Plugin, NDI App for iPhone<br>
+<strong>Cost:</strong> £20</p>
 <p><strong>Steps:</strong></p>
 <ol>
 <li>Download OBS from the website and proceed to install the OBS software as instructed.</li>
-<li>Open OBS.</li>
+<li>Do not open OBS.</li>
+<li>Download the OBS NDI Plugin <a href="https://github.com/Palakis/obs-ndi/releases/download/4.7.1/obs-ndi-4.7.1-macOS.pkg">here (Mac OS)</a> or <a href="https://github.com/Palakis/obs-ndi/releases/download/4.7.1/obs-ndi-4.7.1-Windows-Installer.exe">here (Windows Installer)</a>. Proceed to the installation, following the instructions on screen. No need to change the default install directory.</li>
+<li><strong>Optional Step:</strong> If you are on Mac OS and have Catalina (The latest Mac OS version) you may need to do this additional step: <a href="http://new.tk/NDIRedistV4Apple">Download NDI Software</a> here after completing step 3 and proceed to install it as instructed.</li>
+<li>Next, let’s download the iPhone App. Go <a href="https://apps.apple.com/gb/app/ndi-hx-camera/id1477266080">here</a> and buy the app from the app store.</li>
+<li>Once it has downloaded, open the app.</li>
+<li>Make sure you are on the exact same WiFi network as your Macbook or laptop. (Please note, due to the way networks work, this may not work correctly if you are in a cafe, hotel or airport. In that case, please connect the iPhone directly to your Macbook via the lightning cable you use to charge.)</li>
 <li>We need to setup a few things to begin streaming. Please go into the settings section of OBS and select ‘Video’.</li>
 <li>Inside here we want to change our base canvas resolution and output scaled resolution to 1920 x 1080.</li>
 <li>Next, lets go to the ‘output’ section. We need to calculate our video bitrate settings.</li>
@@ -310,9 +321,10 @@ Description: vMix is a good middle ground between Wirecast and a free piece of s
 <li>Next, let’s set where we are going to stream to. Select the ‘Stream’ section. We want to select ‘<a href="http://Mixer.com">Mixer.com</a> - RTMP’ and select ‘Use Stream Key’.</li>
 <li>To receive a stream key, please login to your Mixer account, select ‘Broadcast Panel’ and find your key. Copy and paste it into the settings screen in OBS.</li>
 <li>Once everything is finished, press OK on the settings panel.</li>
-<li>Next we need to add an incoming video source. Under the sources section of the software, click the plus sign and select ‘Video Capture Device’.</li>
-<li>Inside the new window that has popped up, you will be able to select your webcam. The name of the device changes depending on the laptop you’re using, but it should be easily identifiable as a webcam. Go ahead and select the device and press OK.</li>
-<li>Next we will add an audio input device. Under sources, press the plus sign and select ‘Audio Input Capture’.</li>
-<li>Inside the new window, if you select the ‘device’ drop-down box, you will be able to select your microphone. Depending on the laptop you’re using the name may change, but it should be easily identifiable as a microphone.</li>
+<li>Next we need to add an incoming video source. Under the sources section you should see ‘NDI Source’. Select that and select the ‘Source Name’. It should be ‘(name of your iphone) + NDI HX Camera’. Select that and press OK.</li>
+<li>If you don’t see anything in the source name section, I would assume that there is a problem with your network that is blocking communication, or that you haven’t joined the same network. In this case, please connect directly to the laptop by using the lightning cable.</li>
+<li>When using this, the iPhone automatically sends its microphone to OBS so we don’t need an extra microphone.</li>
+<li>When all of this is done, press ‘Start Streaming’ to start broadcasting to the world.</li>
+<li>To see your stream, please visit <a href="http://www.mixer.com/yourprofilenamehere">http://www.mixer.com/yourprofilenamehere</a></li>
 </ol>
 
