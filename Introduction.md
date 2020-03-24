@@ -373,21 +373,19 @@ Description: vMix is a good middle ground between Wirecast and a free piece of s
 <li>To see your stream, please visit <a href="http://www.mixer.com/yourprofilenamehere">http://www.mixer.com/yourprofilenamehere</a></li>
 </ol>
 <hr>
-<p><strong>4. Stream plus Webcam &amp; External Microphone</strong><br>
-<strong>Description:</strong> Same as the third guide but we will also be using an external microphone. For the purposes of this guide we will be using a simple 3.5mm jack / USB microphone going into a Laptop or Macbook. This can be your iPhone headphones with microphone, or a simple PC headset.<br>
-<strong>Required Hardware</strong> Windows Laptop / Macbook Air / Macbook / Macbook Pro + iPhone + Microphone<br>
-<strong>Required Software</strong> OBS , OBS NDI Plugin, NDI App for iPhone<br>
+<p><strong>4. Stream plus USB Webcam &amp; External Microphone</strong><br>
+<strong>Description:</strong> In this guide we will use a standard USB Webcam &amp; External Microphone to broadcast to the world.<br>
+<strong>Required Hardware</strong> Windows Laptop / Macbook Air / Macbook / Macbook Pro + USB Webcam + Microphone<br>
+<strong>Required Software</strong> OBS , C920 Webcam Drivers<br>
 <strong>Amazon list with recommended hardware:</strong><br>
 <strong>Cost:</strong> £20</p>
 <p><strong>Steps:</strong></p>
 <ol>
 <li>Download OBS from the website and proceed to install the OBS software as instructed.</li>
 <li>Do not open OBS.</li>
-<li>Download the OBS NDI Plugin <a href="https://github.com/Palakis/obs-ndi/releases/download/4.7.1/obs-ndi-4.7.1-macOS.pkg">here (Mac OS)</a> or <a href="https://github.com/Palakis/obs-ndi/releases/download/4.7.1/obs-ndi-4.7.1-Windows-Installer.exe">here (Windows Installer)</a>. Proceed to the installation, following the instructions on screen. No need to change the default install directory.</li>
-<li><strong>Optional Step:</strong> If you are on Mac OS and have Catalina (The latest Mac OS version) you may need to do this additional step: <a href="http://new.tk/NDIRedistV4Apple">Download NDI Software</a> here after completing step 3 and proceed to install it as instructed.</li>
-<li>Next, let’s download the iPhone App. Go <a href="https://apps.apple.com/gb/app/ndi-hx-camera/id1477266080">here</a> and buy the app from the app store.</li>
-<li>Once it has downloaded, open the app.</li>
-<li>Make sure you are on the exact same WiFi network as your Macbook or laptop. (Please note, due to the way networks work, this may not work correctly if you are in a cafe, hotel or airport. In that case, please connect the iPhone directly to your Macbook via the lightning cable you use to charge.)</li>
+<li>Download the Logitech Webcam drivers <a href="https://download01.logi.com/web/ftp/pub/techsupport/capture/Capture_2.00.226.exe">here (Windows)</a> or <a href="https://download01.logi.com/web/ftp/pub/techsupport/capture/Capture_2.0.200.zip">here (Mac OS</a></li>
+<li>Install as you usually would a piece of software for your laptop.</li>
+<li>Once it has downloaded, open OBS.</li>
 <li>To connect the microphone up to a Windows laptop, just connect it to the 3.5mm jack, or plug in the USB as you would any normal microphone. Nothing else is required at this point.</li>
 <li><strong>Optional Step:</strong> On a Macbook, you will need a headphone splitter that you can find <a href="https://amzn.to/3bpsInb">here</a> or use a different audio interface such as the simple one found <a href="https://amzn.to/2JdkLFC">here</a>.</li>
 <li><strong>Optional Step 2:</strong> If you use a USB microphone or a different audio interface as listed above, you will need a USB hub for your Macbook too. Our recommended one is here.</li>
@@ -401,8 +399,8 @@ Description: vMix is a good middle ground between Wirecast and a free piece of s
 <li>Next, let’s set where we are going to stream to. Select the ‘Stream’ section. We want to select ‘<a href="http://Mixer.com">Mixer.com</a> - RTMP’ and select ‘Use Stream Key’.</li>
 <li>To receive a stream key, please login to your Mixer account, select ‘Broadcast Panel’ and find your key. Copy and paste it into the settings screen in OBS.</li>
 <li>Once everything is finished, press OK on the settings panel.</li>
-<li>Next we need to add an incoming video source. Under the sources section you should see ‘NDI Source’. Select that and select the ‘Source Name’. It should be ‘(name of your iphone) + NDI HX Camera’. Select that and press OK.</li>
-<li>If you don’t see anything in the source name section, I would assume that there is a problem with your network that is blocking communication, or that you haven’t joined the same network. In this case, please connect directly to the laptop by using the lightning cable.</li>
+<li>Next we need to add an incoming video source. Under the sources section of the software, click the plus sign and select ‘Video Capture Device’.</li>
+<li>Inside the new window that has popped up, you will be able to select your webcam. The name of the device changes depending on the laptop you’re using, but it should be easily identifiable as a webcam. Go ahead and select the device and press OK.</li>
 <li>Next we will add an audio input device. Under sources, press the plus sign and select ‘Audio Input Capture’.</li>
 <li>Inside the new window, if you select the ‘device’ drop-down box, you will be able to select your microphone. If you bought our recommended hardware, the microphone should appear as ‘Blue Yeti X’. If you’re not using that, the name will be different but should be easily identifiable.</li>
 <li>When all of this is done, press ‘Start Streaming’ to start broadcasting to the world.</li>
