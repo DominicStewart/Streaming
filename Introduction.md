@@ -300,7 +300,7 @@ Description: vMix is a good middle ground between Wirecast and a free piece of s
 <hr>
 <p><strong>2. Simple Stream plus iPhone Camera</strong><br>
 <strong>Description:</strong> We will learn how to stream using just your laptop or Macbook and using your iPhone camera as a webcam. iPhones have the benefit of being portable and generally better quality than most webcams. The disadvantages are that they may run out of power (so remember to keep it charged) and in most cases you will want to run it over WiFi which can cause issues.<br>
-<strong>Required Hardware</strong> Windows Laptop / Macbook Air / Macbook / Macbook Pro<br>
+<strong>Required Hardware</strong> Windows Laptop / Macbook Air / Macbook / Macbook Pro + iPhone<br>
 <strong>Required Software</strong> OBS , OBS NDI Plugin, NDI App for iPhone<br>
 <strong>Cost:</strong> £20</p>
 <p><strong>Steps:</strong></p>
