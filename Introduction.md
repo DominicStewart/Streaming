@@ -229,7 +229,7 @@ Description: vMix is a good middle ground between Wirecast and a free piece of s
 <strong>Link:</strong><a href="https://www.vmix.com/">vMix Official Website</a><br>
 <strong>Cost:</strong> (Free -  £1000)</p>
 <h2 id="additional-software">Additional Software</h2>
-<p>Here is a list of additional software that you might need depending on what you want to do.</p>
+<p>Here is a list of additional software that you might need depending on what you want to do or what hardware you’re using.</p>
 <p><strong>NDI OBS Plugin</strong><br>
 Description: NDI is a piece of software that allows us to send video from certain devices to other devices. The most common use for streaming is an App on the iPhone that can send iPhone camera data to our PC. This will allow us to use the iPhone as a webcam!<br>
 <strong>Compatibility:</strong> Windows &amp; Mac OS<br>
@@ -246,7 +246,22 @@ Description: This app is specifically for Mac OS. If we use this we can send aud
 <strong>Link:</strong> <a href="https://bit.ly/2UfUFrK">Loopback Website</a><br>
 <strong>Cost:</strong> $119</p>
 <p><strong>VoiceMeeter Banana</strong><br>
-Description: This app is specifically for Mac OS. If we use this we can send audio from any application on your device to any other application. For example, you can send Spotify audio or Skype audio to OBS.<br>
+Description: This software does the same thing as Loopback, but it has the advantage of being free. It is slightly harder to use and sadly it is only available for Windows.<br>
+<strong>Compatibility:</strong> Windows<br>
+<strong>Link:</strong> <a href="https://bit.ly/3agCPul">VoiceMeeter Banana Website</a><br>
+<strong>Cost:</strong> Free</p>
+<p><strong>Elgato Camlink Software</strong><br>
+Description: You will need this software to run the camlink hardware on your PC or Macbook.<br>
+<strong>Compatibility:</strong> Windows &amp; Mac OS<br>
+<strong>Link:</strong> <a href="https://bit.ly/3agCPul">VoiceMeeter Banana Website</a><br>
+<strong>Cost:</strong> Free</p>
+<p><strong>Elgato S60+ Mac OS</strong><br>
+Description: You will need this software to run the S60+ on Mac OS.<br>
+<strong>Compatibility:</strong> Mac OS<br>
+<strong>Link:</strong> <a href="https://bit.ly/3agCPul">VoiceMeeter Banana Website</a><br>
+<strong>Cost:</strong> Free</p>
+<p><strong>Elgato S60+ Windows</strong><br>
+Description: You will need this software to run the S60+ on Windows.<br>
 <strong>Compatibility:</strong> Windows<br>
 <strong>Link:</strong> <a href="https://bit.ly/3agCPul">VoiceMeeter Banana Website</a><br>
 <strong>Cost:</strong> Free</p>
