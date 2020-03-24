@@ -283,6 +283,7 @@ Description: vMix is a good middle ground between Wirecast and a free piece of s
 <strong>Description:</strong> We will learn how to stream using just your laptop or Macbook and no additional hardware. This will use your laptops inbuilt webcam and microphone<br>
 <strong>Required Hardware</strong> Windows Laptop / Macbook Air / Macbook / Macbook Pro<br>
 <strong>Required Software</strong> OBS<br>
+<strong>Amazon list with recommended hardware:</strong><br>
 <strong>Cost:</strong> Free (No additional hardware)</p>
 <p><strong>Steps:</strong></p>
 <ol>
@@ -309,6 +310,7 @@ Description: vMix is a good middle ground between Wirecast and a free piece of s
 <strong>Description:</strong> We will learn how to stream using just your laptop or Macbook and using your iPhone camera as a webcam. iPhones have the benefit of being portable and generally better quality than most webcams. The disadvantages are that they may run out of power (so remember to keep it charged) and in most cases you will want to run it over WiFi which can cause issues.<br>
 <strong>Required Hardware</strong> Windows Laptop / Macbook Air / Macbook / Macbook Pro + iPhone<br>
 <strong>Required Software</strong> OBS , OBS NDI Plugin, NDI App for iPhone<br>
+<strong>Amazon list with recommended hardware:</strong><br>
 <strong>Cost:</strong> £20</p>
 <p><strong>Steps:</strong></p>
 <ol>
@@ -339,6 +341,7 @@ Description: vMix is a good middle ground between Wirecast and a free piece of s
 <strong>Description:</strong> Same as the third guide but we will also be using an external microphone. For the purposes of this guide we will be using a simple 3.5mm jack / USB microphone going into a Laptop or Macbook. This can be your iPhone headphones with microphone, or a simple PC headset.<br>
 <strong>Required Hardware</strong> Windows Laptop / Macbook Air / Macbook / Macbook Pro + iPhone + Microphone<br>
 <strong>Required Software</strong> OBS , OBS NDI Plugin, NDI App for iPhone<br>
+<strong>Amazon list with recommended hardware:</strong><br>
 <strong>Cost:</strong> £20</p>
 <p><strong>Steps:</strong></p>
 <ol>
@@ -349,6 +352,10 @@ Description: vMix is a good middle ground between Wirecast and a free piece of s
 <li>Next, let’s download the iPhone App. Go <a href="https://apps.apple.com/gb/app/ndi-hx-camera/id1477266080">here</a> and buy the app from the app store.</li>
 <li>Once it has downloaded, open the app.</li>
 <li>Make sure you are on the exact same WiFi network as your Macbook or laptop. (Please note, due to the way networks work, this may not work correctly if you are in a cafe, hotel or airport. In that case, please connect the iPhone directly to your Macbook via the lightning cable you use to charge.)</li>
+<li>To connect the microphone up to a Windows laptop, just connect it to the 3.5mm jack, or plug in the USB as you would any normal microphone. Nothing else is required at this point.</li>
+<li><strong>Optional Step:</strong> On a Macbook, you will need a headphone splitter that you can find <a href="https://amzn.to/3bpsInb">here</a> or use a different audio interface such as the simple one found <a href="https://amzn.to/2JdkLFC">here</a>.</li>
+<li><strong>Optional Step 2:</strong> If you use a USB microphone or a different audio interface as listed above, you will need a USB hub for your Macbook too. Our recommended one is here.</li>
+<li>Now let’s open OBS.</li>
 <li>We need to setup a few things to begin streaming. Please go into the settings section of OBS and select ‘Video’.</li>
 <li>Inside here we want to change our base canvas resolution and output scaled resolution to 1920 x 1080.</li>
 <li>Next, lets go to the ‘output’ section. We need to calculate our video bitrate settings.</li>
@@ -360,7 +367,8 @@ Description: vMix is a good middle ground between Wirecast and a free piece of s
 <li>Once everything is finished, press OK on the settings panel.</li>
 <li>Next we need to add an incoming video source. Under the sources section you should see ‘NDI Source’. Select that and select the ‘Source Name’. It should be ‘(name of your iphone) + NDI HX Camera’. Select that and press OK.</li>
 <li>If you don’t see anything in the source name section, I would assume that there is a problem with your network that is blocking communication, or that you haven’t joined the same network. In this case, please connect directly to the laptop by using the lightning cable.</li>
-<li>When using this, the iPhone automatically sends its microphone to OBS so we don’t need an extra microphone.</li>
+<li>Next we will add an audio input device. Under sources, press the plus sign and select ‘Audio Input Capture’.</li>
+<li>Inside the new window, if you select the ‘device’ drop-down box, you will be able to select your microphone. If you bought our recommended hardware, the microphone should appear as ‘Blue Yeti X’. If you’re not using that, the name will be different but should be easily identifiable.</li>
 <li>When all of this is done, press ‘Start Streaming’ to start broadcasting to the world.</li>
 <li>To see your stream, please visit <a href="http://www.mixer.com/yourprofilenamehere">http://www.mixer.com/yourprofilenamehere</a></li>
 </ol>
