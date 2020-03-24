@@ -296,6 +296,8 @@ Description: vMix is a good middle ground between Wirecast and a free piece of s
 <li>Inside the new window that has popped up, you will be able to select your webcam. The name of the device changes depending on the laptop you’re using, but it should be easily identifiable as a webcam. Go ahead and select the device and press OK.</li>
 <li>Next we will add an audio input device. Under sources, press the plus sign and select ‘Audio Input Capture’.</li>
 <li>Inside the new window, if you select the ‘device’ drop-down box, you will be able to select your microphone. Depending on the laptop you’re using the name may change, but it should be easily identifiable as a microphone.</li>
+<li>When all of this is done, press ‘Start Streaming’ to start broadcasting to the world.</li>
+<li>To see your stream, please visit <a href="http://www.mixer.com/yourprofilenamehere">http://www.mixer.com/yourprofilenamehere</a></li>
 </ol>
 <hr>
 <p><strong>2. Simple Stream plus iPhone Camera</strong><br>
