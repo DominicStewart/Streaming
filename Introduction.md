@@ -267,8 +267,32 @@ Description: vMix is a good middle ground between Wirecast and a free piece of s
 <strong>Cost:</strong> Free</p>
 <h1 id="how-to-stream">4. How to Stream</h1>
 <p>Depending on your requirements and the hardware you use, there are several different ways to broadcast.</p>
-<p><strong>Simplest Stream Setup</strong><br>
+<p><strong>1. Simplest Stream Setup</strong><br>
 <strong>Description:</strong> We will learn how to stream using just your laptop or Macbook and no additional hardware. This will use your laptops inbuilt webcam and microphone<br>
+<strong>Required Hardware</strong> Windows Laptop / Macbook Air / Macbook / Macbook Pro<br>
+<strong>Required Software</strong> OBS<br>
+<strong>Cost:</strong> Free (No additional hardware)</p>
+<hr>
+<p><strong>Steps:</strong></p>
+<ol>
+<li>Download OBS from the website and proceed to install the OBS software as instructed.</li>
+<li>Open OBS.</li>
+<li>We need to setup a few things to begin streaming. Please go into the settings section of OBS and select ‘Video’.</li>
+<li>Inside here we want to change our base canvas resolution and output scaled resolution to 1920 x 1080.</li>
+<li>Next, lets go to the ‘output’ section. We need to calculate our video bitrate settings.</li>
+<li>First, lets visit <a href="https://www.speedtest.net/">Speedtest</a> and perform a test to determine our upload speed.</li>
+<li>The result of the speedtest will be in ‘Mbps’. We need to convert it to ‘Kbps’ by multiplying by 1000. If you have an upload of 10 Mbps you have an upload speed of 10,000 Kbps.</li>
+<li>If you’re using our services, we support a maximum bitrate of 2,500 Kbps. We recommend only setting the ‘video bitrate’ setting to half of your maximum upload speed, up to 2,500 Kbps.</li>
+<li>Next, let’s set where we are going to stream to. Select the ‘Stream’ section. We want to select ‘<a href="http://Mixer.com">Mixer.com</a> - RTMP’ and select ‘Use Stream Key’.</li>
+<li>To receive a stream key, please login to your Mixer account, select ‘Broadcast Panel’ and find your key. Copy and paste it into the settings screen in OBS.</li>
+<li>Once everything is finished, press OK on the settings panel.</li>
+<li>Next we need to add an incoming video source. Under the sources section of the software, click the plus sign and select ‘Video Capture Device’.</li>
+<li>Inside the new window that has popped up, you will be able to select your webcam. The name of the device changes depending on the laptop you’re using, but it should be easily identifiable as a webcam. Go ahead and select the device and press OK.</li>
+<li>Next we will add an audio input device. Under sources, press the plus sign and select ‘Audio Input Capture’.</li>
+<li>Inside the new window, if you select the ‘device’ drop-down box, you will be able to select your microphone. Depending on the laptop you’re using the name may change, but it should be easily identifiable as a microphone.</li>
+</ol>
+<p><strong>2. Simple Stream plus iPhone Camera</strong><br>
+<strong>Description:</strong> We will learn how to stream using just your laptop or Macbook and using your iPhone camera as a webcam. iPhones have the benefit of being portable and generally better quality than most webcams. The disadvantages are that they may run out of power (so remember to keep it charged) and in most cases you will want to run it over WiFi which can cause issues.<br>
 <strong>Required Hardware</strong> Windows Laptop / Macbook Air / Macbook / Macbook Pro<br>
 <strong>Required Software</strong> OBS<br>
 <strong>Cost:</strong> Free (No additional hardware)</p>
