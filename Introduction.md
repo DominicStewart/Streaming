@@ -175,10 +175,20 @@ Note: I would also recommend the Elgato S60+ here: <a href="https://amzn.to/2JaC
 <ol>
 <li>Yamaha MG10 Stereo Sound Card &amp; Mixer<br>
 <a href="https://amzn.to/2J870b5">https://amzn.to/2J870b5</a><br>
-Note: This is great because it has a mixer and a sound card inbuilt. This means<br>
-<strong>Recommended:</strong></li>
+<strong>Note:</strong> This is great because it has a mixer and a sound card inbuilt. This means that if you plug it into a Mac you can bypass the need for weird adaptors to get microphones working, and you’ll have more inputs, and because it has a mixer too we can control more about the sound we bring into the PC from the device rather than using software to do it. This also features multiple XLR inputs for microphones, turntables and more.</li>
+</ol>
+<p><strong>Recommended:</strong></p>
+<ol>
+<li>Focusrite Scarlett 2i2 3rd Gen<br>
+<a href="https://amzn.to/3brs0Wx">https://amzn.to/3brs0Wx</a><br>
+Note: This device will allow you to plug in two inputs. For example, a microphone and a turntable and control the volume directly from the device. The benefit of going for one of these is they take XLR input which is commonly used in professional microphones, such as the <strong>“Rode Procaster”</strong> microphone mentioned above.</li>
 </ol>
 <p><strong>Minimal</strong></p>
+<ol>
+<li>Plugable USB Audio Adaptor<br>
+<a href="https://amzn.to/2JdkLFC">https://amzn.to/2JdkLFC</a><br>
+Note: Useful for simple jobs and you want to bypass the Apple Macbook 3.5mm audio interface problems. Using this will simplify your streaming life, its plug &amp; play meaning you dont need any special drivers or software for your PC. It should just work when plugged in. Doesn’t include any fancy ports but if you have a standard consumer microphone you would like to use, this will make that work.</li>
+</ol>
 <h2 id="tripods">Tripods</h2>
 <p><strong>Best:</strong></p>
 <p><strong>Recommended:</strong></p>
