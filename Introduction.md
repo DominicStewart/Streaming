@@ -384,6 +384,7 @@ Description: vMix is a good middle ground between Wirecast and a free piece of s
 <li>Download OBS from the website and proceed to install the OBS software as instructed.</li>
 <li>Do not open OBS.</li>
 <li>Download the Logitech Webcam drivers <a href="https://download01.logi.com/web/ftp/pub/techsupport/capture/Capture_2.00.226.exe">here (Windows)</a> or <a href="https://download01.logi.com/web/ftp/pub/techsupport/capture/Capture_2.0.200.zip">here (Mac OS</a></li>
+<li>Plugin the webcam to your Laptop either in the USB port on the Windows laptop or if on a Macbook you will need a USB hub. Purchase here.</li>
 <li>Install as you usually would a piece of software for your laptop.</li>
 <li>Once it has downloaded, open OBS.</li>
 <li>To connect the microphone up to a Windows laptop, just connect it to the 3.5mm jack, or plug in the USB as you would any normal microphone. Nothing else is required at this point.</li>
