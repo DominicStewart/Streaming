@@ -201,4 +201,26 @@ Part 2 NDI - HX App for iPhone:<br>
 <p><strong>Recommended:</strong></p>
 <p><strong>Minimal</strong></p>
 <h1 id="software">3. Software</h1>
+<h2 id="streaming-software">Streaming Software</h2>
+<p>You’ll need to use this software to broadcast to the internet! I’ve listed several different options.</p>
+<p><strong>OBS Studio - Recommended</strong><br>
+Description:<br>
+Link: <a href="https://obsproject.com/">OBS Official Website</a><br>
+Cost: Free</p>
+<p><strong>Streamlabs OBS</strong><br>
+Description:<br>
+Link: <a href="https://streamlabs.com/">Streamlabs Official Website</a><br>
+Cost: Free</p>
+<p><strong>Xsplit</strong><br>
+Description:<br>
+Link: <a href="https://www.xsplit.com/">Xsplit Official Website</a><br>
+Cost: £50 / year</p>
+<p><strong>Wirecast</strong><br>
+Description:<br>
+Link:<a href="https://www.telestream.net/wirecast/">Wirecast Official Website</a><br>
+Cost: £550</p>
+<p><strong>vMix</strong><br>
+Description:<br>
+Link:<a href="https://www.vmix.com/">vMix Official Website</a><br>
+Cost: £300</p>
 
